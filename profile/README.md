@@ -2,7 +2,7 @@
 
 > Remember Everything, Discover Anything.
 
-Lizst is a list-making app that allows users to create lists and share them with others.
+LiZST is a list-making app that allows users to create lists and share them with others.
 
 https://lizst.app
 
