@@ -1,4 +1,4 @@
-# Lizst
+# LiZST
 
 > Remember Everything, Discover Anything.
 
