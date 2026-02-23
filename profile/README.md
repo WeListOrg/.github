@@ -1,10 +1,10 @@
-# Lizst
+# WeList
 
 > Remember Everything, Discover Anything.
 
-Lizst is a list-making app that allows users to create lists and share them with others.
+WeList is a list-making app that allows users to create lists and share them with others.
 
-https://lizst.app
+https://welist.org
 
 ## Overview
 
