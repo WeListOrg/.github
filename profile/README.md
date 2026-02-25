@@ -1,11 +1,11 @@
 # WeList
 
-> Remember Everything, Discover Anything.
+> Organize knowledge together
 
-WeList is a list-making app that allows users to create lists and share them with others.
+WeList is a collaborative list-building platform.
 
 https://welist.org
 
 ## Overview
 
-A smart list-making application for collaborative knowledge exchange in an endless space environment.
+For individuals and teams who want to organize and share knowledge efficiently, WeList is a collaborative list-building platform that turns ideas into structured, shareable lists, making it simple and intuitive to create, manage, and discover data.
