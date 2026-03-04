@@ -1,6 +1,6 @@
 # WeList
 
-> Organize knowledge together
+> We organize knowledge
 
 WeList is a collaborative list-building platform.
 
