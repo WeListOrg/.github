@@ -1,6 +1,6 @@
 # WeList
  
-<img src="../welist-logo-icon.svg" width="320">
+<img src="https://github.com/WeListOrg/.github/raw/refs/heads/main/welist-logo-icon.svg" width="320">
 
 > Every idea has a place
 
