@@ -1,8 +1,9 @@
 # WeList
 
-> We organize knowledge
+> Every idea has a place
 
-WeList is a collaborative list-building platform.
+- WeList is a collaborative list-building platform.
+- WeList brings boards for ideas, from thoughts to things.
 
 https://welist.org
 
