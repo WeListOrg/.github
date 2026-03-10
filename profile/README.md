@@ -1,6 +1,9 @@
 # WeList
- 
-<img src="https://github.com/WeListOrg/.github/raw/refs/heads/main/welist-logo-icon.svg" width="320">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/WeListOrg/.github/raw/refs/heads/main/welist-logo-icon-dark.svg">
+  <img src="https://github.com/WeListOrg/.github/raw/refs/heads/main/welist-logo-icon-light.svg" width="320">
+</picture>
 
 > Every idea has a place
 
